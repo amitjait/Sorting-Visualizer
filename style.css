@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+.bars{
+    display: flex;
+    /* width: 100%; */
+    padding-left: 50px;
+}
+.bar{
+    background-color: yellow;
+    width: 0.8rem;
+    margin-right: 1px;
+    /* border-color: 10px solid black; */
+}
+.bor{
+    border-color: 15px solid blue;
+}
