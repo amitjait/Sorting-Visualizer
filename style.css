@@ -4,8 +4,9 @@ body{
 
 .bars{
     display: flex;
-    /* width: 100%; */
     padding-left: 50px;
+    margin: 0px auto;
+    width: 90%;
 }
 .bar{
     background-color: yellow;
